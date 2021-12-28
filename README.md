@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install m_talk_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+MTalkViewTool::Renderer.copyright 'Mateusz Talkowski', 'All rights reserved'
+```
 
 ## Development
 
